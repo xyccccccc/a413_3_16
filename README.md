@@ -6,3 +6,5 @@ For the tracking section, when moving straight, the sensor data is read. If the 
 When making a turn, to compensate for the impact of inertia, the car reverses a certain distance before turning. After detecting the black line, the turning is stopped after a preset delay, and the car continues moving straight.
 
 However, due to the influence of terrain, the tracking effect is not good, and sometimes there may be problems of excessive turning. Therefore, only the tracking version for the first question was written, and for other questions, a delay was used instead.
+
+For the second question, it was intended to use a two-dimensional array to record coordinates and sort them to achieve the shortest walking distance. However, due to time constraints, this implementation was not completed.
