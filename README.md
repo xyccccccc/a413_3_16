@@ -9,6 +9,6 @@ When making a turn, to compensate for the impact of inertia, the car reverses a 
 →see [xj1.ino](https://github.com/xyccccccc/a413_3_16/blob/main/xj1.ino)
 
 However, due to the influence of terrain, the tracking effect is not good, and sometimes there may be problems of excessive turning. Therefore, only the tracking version for the first question was written, and for other questions, a delay was used instead.         
-→see [xj1.ino](https://github.com/xyccccccc/a413_3_16/blob/main/final.ino)
+→see [fianl.ino](https://github.com/xyccccccc/a413_3_16/blob/main/final.ino)
 
 For the second question, it was intended to use a two-dimensional array to record coordinates and sort them to achieve the shortest walking distance. However, due to time constraints, this implementation was not completed.
